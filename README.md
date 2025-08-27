@@ -1,4 +1,4 @@
-The repo includes informative articles within the finance niche, related to investment, stocks, economy, and others. Feel free to share with others.
+The repo includes informative articles within the finance niche, related to investment, stocks, blockchain, tax, economy, and others. Feel free to share with others.
 
 
 ## Resources
